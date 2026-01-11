@@ -12,3 +12,8 @@ __pycache__/
 # IDE
 .vscode/
 .idea/
+
+# SQLite database
+database_integration/test.db
+# All SQLite databases
+*.db
