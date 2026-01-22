@@ -17,6 +17,7 @@ __pycache__/
 database_integration/test.db
 # All SQLite databases
 *.db
+*.sqlite3
 
 # all joblib and pickle files
 *.joblib
